@@ -1,3 +1,5 @@
+# Privacy
+
 This messaging service is operated by Joseph Rechenmacher for personal and informational messaging purposes.
 
 Information collected may include:

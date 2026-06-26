@@ -1,3 +1,5 @@
+# Terms & Conditions
+
 By opting via verbal agreement (and verbal agreement only) into SMS or MMS messages from Joseph Rechenmacher, you agree to receive informational text messages related to the service.
 
 Message frequency may vary.
